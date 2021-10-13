@@ -1,3 +1,5 @@
+### Respondus Information and Links
+
 Respondus Lockdown Browser™ is a custom browser that locks down the testing environment within Blackboard. 
 When students use Respondus Lockdown Browser they are unable to print, copy, go to another URL, or access other applications. 
 When an assessment is started, students are locked into the exam until they submit it for grading. 

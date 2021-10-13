@@ -1,3 +1,5 @@
+### Valuable Links and Resources
+
 LTI Icons Repository: https://github.com/carolynponce/Bb-lti-icons
 
 https://appcatalog.blackboard.com/

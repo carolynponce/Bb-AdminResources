@@ -4,7 +4,7 @@ Respondus Lockdown Browser™ is a custom browser that locks down the testing en
 When students use Respondus Lockdown Browser they are unable to print, copy, go to another URL, or access other applications. 
 When an assessment is started, students are locked into the exam until they submit it for grading. 
 
-System Requirements
+System Requirements (as of Fall 2021)
 
     Windows: 10, 8, 7
     Mac: MacOS 10.15 to 10.12, OS X 10.11, OSX 10.10

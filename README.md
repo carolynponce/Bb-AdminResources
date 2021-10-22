@@ -9,6 +9,7 @@ Use the links below to navigate around the various pages and information.
 [LTI Rest API Links](developer/lti_restapi.md)
 
 [SIS Links](developer/sis.md)
+[Google](https://www.google.com)
 
 
 ## Integrations
@@ -17,7 +18,7 @@ Use the links below to navigate around the various pages and information.
 
 [Web Links](integrations/welinks.md)
 
-## Notice
+### Notice
 
 The Resources repository is an organic project to help share resources to Blackboard Administrators. As resources are found, they will be listed here. 
 

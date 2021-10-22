@@ -13,7 +13,7 @@ Use the links below to navigate around the various pages and information.
 
 ## Integrations
 
-[Respondus Links](integrations/respondus.md)
+[Respondus Information and Links](integrations/respondus.md)
 
 [Web Links](integrations/welinks.md)
 

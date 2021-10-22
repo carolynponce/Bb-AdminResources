@@ -4,18 +4,22 @@ Use the links below to navigate around the various pages and information.
 
 ## Developer Links
 
-[Database Links](developer/databases.md)
-
 [LTI Rest API Links](developer/lti_restapi.md)
 
-[SIS Links](developer/sis.md)
+## Database
+[Database Links](developer/databases.md)
 
+[Quiery Repository](main/Queries)
 
 ## Integrations
 
-[Respondus Information and Links](integrations/respondus.md)
+[SIS Integration](developer/sis.md)
 
 [Web Links](integrations/welinks.md)
+
+## Third Party Integrations
+
+[Respondus Information and Links](integrations/respondus.md)
 
 ## Notice
 

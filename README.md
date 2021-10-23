@@ -4,11 +4,11 @@ Use the links below to navigate around the various pages and information.
 
 ## Professional Development
 
-[Blackboard Training](main/training.md)
+[Blackboard Training](main/training)
 
-[SaaS and Ultra Planning Workshops](main/training.md)
+[SaaS and Ultra Planning Workshops](main/training)
 
-[Instructor Webinar Series](main/training.md)
+[Instructor Webinar Series](main/training)
 
 ## Developer Links
 

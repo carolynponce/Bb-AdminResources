@@ -1,4 +1,4 @@
-# Ally
+# Blackboard Ally
 
 Abour Ally: https://ally.ac
 

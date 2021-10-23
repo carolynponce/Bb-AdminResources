@@ -2,6 +2,14 @@
 
 Use the links below to navigate around the various pages and information.
 
+## Professional Development
+
+[Blackboard Training](main/training.md)
+
+[SaaS and Ultra Planning Workshops](main/training.md)
+
+[Instructor Webinar Series](main/training.md)
+
 ## Developer Links
 
 [LTI Rest API Links](developer/lti_restapi.md)
@@ -23,6 +31,7 @@ Use the links below to navigate around the various pages and information.
 
 ## Notice
 
-The Resources repository is an organic project to help share resources among Blackboard Administrators. As resources are found, they will be listed here. 
+The Blackboard Administrator Resources Repository is an organic project to help share resources among Blackboard Administrators. 
+As resources are found, they will be listed here. 
 
 Contact Carolyn Ponce at cponce@astate.edu to share a new resource or report a broken link. 

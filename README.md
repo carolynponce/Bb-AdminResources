@@ -29,6 +29,8 @@ Use the links below to navigate around the various pages and information.
 
 [Respondus Information and Links](integrations/respondus.md)
 
+[LTI Icon Repository](https://github.com/carolynponce/Bb-lti-icons)
+
 ## Notice
 
 The Blackboard Administrator Resources Repository is an organic project to help share resources among Blackboard Administrators. 

@@ -1,6 +1,6 @@
-#Blackboard Data
+# Blackboard Data
 
-Blackboard Data: https://data.blackboard.com
+About Blackboard Data: https://data.blackboard.com
 
 Data Dictionary: https://data.blackboard.com/dictionary/entries/submodel/all-submodels
 

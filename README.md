@@ -4,7 +4,7 @@ Use the links below to navigate around the various pages and information.
 
 ## Professional Development
 
-[Blackboard Training](main/training.md){:target="_blank" rel="noopener"}
+[Blackboard Training](main/training.md {:target="_blank" rel="noopener"})
 
 [SaaS and Ultra Planning Workshops](main/training.md)
 

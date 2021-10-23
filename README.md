@@ -4,11 +4,11 @@ Use the links below to navigate around the various pages and information.
 
 ## Professional Development
 
-[Blackboard Training](main/training)
+[Blackboard Training](main/training.md)
 
-[SaaS and Ultra Planning Workshops](main/training)
+[SaaS and Ultra Planning Workshops](main/training.md)
 
-[Instructor Webinar Series](main/training)
+[Instructor Webinar Series](main/training.md)
 
 ## Developer Links
 
@@ -17,7 +17,7 @@ Use the links below to navigate around the various pages and information.
 ## Database
 [Database Links](developer/databases.md)
 
-[Query Repository](main/Queries)
+[Query Repository](main/queries.md)
 
 ## Integrations
 

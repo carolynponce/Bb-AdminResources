@@ -9,7 +9,7 @@ Use the links below to navigate around the various pages and information.
 ## Database
 [Database Links](developer/databases.md)
 
-[Quiery Repository](main/Queries)
+[Query Repository](main/Queries)
 
 ## Integrations
 
@@ -17,12 +17,12 @@ Use the links below to navigate around the various pages and information.
 
 [Web Links](integrations/welinks.md)
 
-## Third Party Integrations
+## Third Party Tools
 
 [Respondus Information and Links](integrations/respondus.md)
 
 ## Notice
 
-The Resources repository is an organic project to help share resources to Blackboard Administrators. As resources are found, they will be listed here. 
+The Resources repository is an organic project to help share resources among Blackboard Administrators. As resources are found, they will be listed here. 
 
 Contact Carolyn Ponce at cponce@astate.edu to share a new resource or report a broken link. 

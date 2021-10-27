@@ -1,6 +1,6 @@
 # Welcome to the Blackboard Administrator Resources Repository
 
-Use the links below to navigate around the various pages and information.
+The Respository is currently being built. Some of the links below may not work at this time. Thank you for your patience. 
 
 ## Professional Development
 

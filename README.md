@@ -16,8 +16,6 @@ The Respository is currently being built. Some of the links below may not work a
 
 [User Ran Listservs](listservs.md)
 
-[User Build and Currated Github Sites](integrations/toolweblinks.md)
-
 ## Developer Links
 
 [Developer Site](https://developer.blackboard.com/)
@@ -27,6 +25,13 @@ The Respository is currently being built. Some of the links below may not work a
 [Building Block, LTI and Rest API Information](developer/lti_restapi.md)
 
 [Blackboard on Github](https://github.com/blackboard)
+
+[User Created and Currated Github Sites](integrations/toolweblinks.md)
+
+    All the Ducks
+    Oscelot
+    Tsugi
+    sdsu-its
 
 ## Database
 

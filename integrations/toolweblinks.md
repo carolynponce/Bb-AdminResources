@@ -21,3 +21,7 @@ BbStats: [https://github.com/OSCELOT/BbStats](https://github.com/OSCELOT/BbStats
 Tsugi Tools: [https://github.com/tsugitools](https://github.com/tsugitools)
 
 Bb Impersonate: [https://github.com/sdsu-its/book-bb-impersonate](https://github.com/sdsu-its/book-bb-impersonate)
+
+##Individual Developer Github Sites
+
+Heather Crites: [https://github.com/hcrites-cscc/blackboard](https://github.com/hcrites-cscc/blackboard)

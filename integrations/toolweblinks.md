@@ -1,6 +1,6 @@
 Github: https://github.com
 
-## User Built and Currated Github Sites
+## User Created and Currated Github Sites
 
 LTI Icons Repository: [https://github.com/carolynponce/Bb-lti-icons](https://github.com/carolynponce/Bb-lti-icons)
 

@@ -1,31 +1,23 @@
-# Valuable Links and Resources
-
-## Blackboard
-
-Blackboard App Catalog: https://appcatalog.blackboard.com/
-
-Blackboard: https://github.com/blackboard
-
-## Community Built and Currated 
-
 Github: https://github.com
 
-LTI Icons Repository: https://github.com/carolynponce/Bb-lti-icons
+## User Built and Currated Github Sites
 
-All the Ducks: https://github.com/AllTheDucks/
+LTI Icons Repository: [https://github.com/carolynponce/Bb-lti-icons](https://github.com/carolynponce/Bb-lti-icons)
 
-JSHack - updated: https://github.com/AllTheDucks/jshack-v1
+All the Ducks: [https://github.com/AllTheDucks/](https://github.com/AllTheDucks/)
 
-Oscelot: https://github.com/OSCELOT/
+JSHack - updated: [https://github.com/AllTheDucks/jshack-v1](https://github.com/AllTheDucks/jshack-v1)
 
-UofY DSK Tool: https://github.com/OSCELOT/UoY-DSK-Tool
+Oscelot: [https://github.com/OSCELOT/](https://github.com/OSCELOT/)
 
-LoginAs: https://github.com/OSCELOT/LoginAs
+UofY DSK Tool: [https://github.com/OSCELOT/UoY-DSK-Tool](https://github.com/OSCELOT/UoY-DSK-Tool)
 
-BasicLTI: https://github.com/OSCELOT/bb-basiclti
+LoginAs: [https://github.com/OSCELOT/LoginAs](https://github.com/OSCELOT/LoginAs)
 
-BbStats: https://github.com/OSCELOT/BbStats
+BasicLTI: [https://github.com/OSCELOT/bb-basiclti](https://github.com/OSCELOT/bb-basiclti)
 
-Tsugi Tools: https://github.com/tsugitools
+BbStats: [https://github.com/OSCELOT/BbStats](https://github.com/OSCELOT/BbStats)
 
-Bb Impersonate: https://github.com/sdsu-its/book-bb-impersonate
+Tsugi Tools: [https://github.com/tsugitools](https://github.com/tsugitools)
+
+Bb Impersonate: [https://github.com/sdsu-its/book-bb-impersonate](https://github.com/sdsu-its/book-bb-impersonate)

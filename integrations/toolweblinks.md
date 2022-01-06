@@ -20,4 +20,4 @@ Tsugi Tools: [https://github.com/tsugitools](https://github.com/tsugitools)
 
 Bb Impersonate: [https://github.com/sdsu-its/book-bb-impersonate](https://github.com/sdsu-its/book-bb-impersonate)
 
-LTI Icons Repository: [https://github.com/carolynponce/Bb-lti-icons](https://github.com/carolynponce/Bb-lti-icons)
+LTI Icons Repository: [https://carolynponce.github.io/Bb-lti-icons](https://carolynponce.github.io/Bb-lti-icons)

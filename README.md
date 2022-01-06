@@ -14,6 +14,8 @@ The Respository is currently being built. Some of the links below may not work a
 
 [Developer Site](https://developer.blackboard.com/)
 
+[Developer Documentation](https://docs.blackboard.com/)
+
 [LTI, Rest API Information](developer/lti_restapi.md)
 
 ## Database

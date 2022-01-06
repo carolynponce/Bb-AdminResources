@@ -60,7 +60,7 @@ The Respository is currently being built. Some of the links below may not work a
 
 [Blackboard Ally](integrations/BbAlly.md)
 
-[LTI Icon Repository](https://github.com/carolynponce/Bb-lti-icons)
+[LTI Icon Repository](https://carolynponce.github.io/Bb-lti-icons/)
 
 [Respondus Lockdown Browser](integrations/Respondus.md)
 

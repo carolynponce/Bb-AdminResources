@@ -48,7 +48,7 @@ The Respository is currently being built. Some of the links below may not work a
 
 ## Integrations
 
-[Integration Information and Resources](developer/sis.md)
+[Integration Information and Resources](integrations/sis.md)
 
     SIS Integrations
     Snapshot Flat File Headers

@@ -6,9 +6,15 @@ The Respository is currently being built. Some of the links below may not work a
 
 [Blackboard Training](/training.md)
 
-[SaaS and Ultra Planning Workshops](/training.md)
+    Blackboard Academy
+    SaaS and Ultra Planning Workshops
+    Instructor Webinar Series
 
-[Instructor Webinar Series](/training.md)
+## Community Resources
+
+[Blackboard Community Site](https://community.blackboard.com/home)
+
+[User Ran Listservs](listservs.md)
 
 ## Developer Links
 
@@ -16,12 +22,13 @@ The Respository is currently being built. Some of the links below may not work a
 
 [Developer Documentation](https://docs.blackboard.com/)
 
-[LTI, Rest API Information](developer/lti_restapi.md)
+[Building Block, LTI and Rest API Information](developer/lti_restapi.md)
 
 ## Database
+
 [Database Links](developer/databases.md)
 
-[Query Repository](https://carolynponce.github.io/Bb-DBQueryRepository/)
+[Database Query Repository](https://carolynponce.github.io/Bb-DBQueryRepository/)
 
 ## Integrations
 

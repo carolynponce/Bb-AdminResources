@@ -1,14 +1,17 @@
-## Respondus Information and Links
+## Respondus Lockdown Browser Information and Links
 
 Respondus Lockdown Browser™ is a custom browser that locks down the testing environment within Blackboard. 
 When students use Respondus Lockdown Browser they are unable to print, copy, go to another URL, or access other applications. 
 When an assessment is started, students are locked into the exam until they submit it for grading. 
 
-### System Requirements (as of Fall 2021)
+### System Requirements (as of Spring 2022)
 
-    Windows: 10, 8, 7
-    Mac: MacOS 10.15 to 10.12, OS X 10.11, OSX 10.10
+    Windows: 11, 10, & 8
+    Mac: MacOS 10.12+
     iOS: 11.0+ (iPad only). Must have a compatible LMS integration.
+    Chromebook: latest version
+Details: [https://support.respondus.com/hc/en-us/articles/4409607170459-What-are-the-computer-requirements-for-installations-of-Respondus-LockDown-Browser-](https://support.respondus.com/hc/en-us/articles/4409607170459-What-are-the-computer-requirements-for-installations-of-Respondus-LockDown-Browser-)
+    
 
 ### Quick Links for Faculty
 

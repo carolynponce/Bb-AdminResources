@@ -4,11 +4,11 @@ The Respository is currently being built. Some of the links below may not work a
 
 ## Professional Development
 
-[Blackboard Training](main/training.md)
+[Blackboard Training](/training.md)
 
-[SaaS and Ultra Planning Workshops](main/training.md)
+[SaaS and Ultra Planning Workshops](/training.md)
 
-[Instructor Webinar Series](main/training.md)
+[Instructor Webinar Series](/training.md)
 
 ## Developer Links
 

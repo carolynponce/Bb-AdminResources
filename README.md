@@ -69,4 +69,4 @@ The Respository is currently being built. Some of the links below may not work a
 The Blackboard Administrator Resources Repository is an organic project to help share resources among Blackboard Administrators. 
 As resources are found, they will be listed here. 
 
-Contact Carolyn Ponce at cponce@astate.edu to share a new resource or report a broken link. 
+Create a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to contribute content to the Repository. 

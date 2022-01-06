@@ -12,23 +12,23 @@ When an assessment is started, students are locked into the exam until they subm
 
 ### Quick Links for Faculty
 
-Quick Start Guide for Faculty: https://web.respondus.com/wp-content/uploads/2019/08/RLDB-QSG-Bb-Instructor.pdf
+Quick Start Guide for Faculty: [https://web.respondus.com/wp-content/uploads/2019/08/RLDB-QSG-Bb-Instructor.pdf](https://web.respondus.com/wp-content/uploads/2019/08/RLDB-QSG-Bb-Instructor.pdf)
     
-Video How To for Instructors (Blackboard): https://www.youtube.com/embed/4Ts2izBlkbo?rel=0&autoplay=1
+Video How To for Instructors (Blackboard): [https://www.youtube.com/embed/4Ts2izBlkbo?rel=0&autoplay=1](https://www.youtube.com/embed/4Ts2izBlkbo?rel=0&autoplay=1)
     
-Respondus Webinar Series: https://web.respondus.com/webinars/
+Respondus Webinar Series: [https://web.respondus.com/webinars/](https://web.respondus.com/webinars/)
 
 ### Quick Links for Students
 
-Video about Respondus for Students: https://web.respondus.com/lockdownbrowser-student-video/
+Video about Respondus for Students: [https://web.respondus.com/lockdownbrowser-student-video/](https://web.respondus.com/lockdownbrowser-student-video/)
 
-Quick Start Guide for Students: https://web.respondus.com/wp-content/uploads/2019/08/RLDB-Quick-Start-Guide-Bb-Student.pdf
+Quick Start Guide for Students: [https://web.respondus.com/wp-content/uploads/2019/08/RLDB-Quick-Start-Guide-Bb-Student.pdf](https://web.respondus.com/wp-content/uploads/2019/08/RLDB-Quick-Start-Guide-Bb-Student.pdf)
 
 ### Respondus Lockdown on iPad
 
-iPad Instructions for Faculty: http://support.respondus.com/support/index.php?/default_import/Knowledgebase/Article/View/186/0/can-an-ipad-be-used-with-lockdown-browser
+iPad Instructions for Faculty: [http://support.respondus.com/support/index.php?/default_import/Knowledgebase/Article/View/186/0/can-an-ipad-be-used-with-lockdown-browser](http://support.respondus.com/support/index.php?/default_import/Knowledgebase/Article/View/186/0/can-an-ipad-be-used-with-lockdown-browser)
 
-iPad Instructions for Students: http://support.respondus.com/support/index.php?/Knowledgebase/Article/View/219/0/can-an-ipad-be-used-to-take-a-lockdown-browser-exam-instructions-for-students
+iPad Instructions for Students: [http://support.respondus.com/support/index.php?/Knowledgebase/Article/View/219/0/can-an-ipad-be-used-to-take-a-lockdown-browser-exam-instructions-for-students](http://support.respondus.com/support/index.php?/Knowledgebase/Article/View/219/0/can-an-ipad-be-used-to-take-a-lockdown-browser-exam-instructions-for-students)
 
 ### Frequently Asked Questions
 
@@ -44,20 +44,22 @@ A. The iPad Edition of "LockDown Browser" (available from iTunes) enables a stud
 
 Technical support for Respondus Lockdown Browser is provided by Respondus and is available online using the following links
 
-Knowledge Base: http://www.respondus.com/esupport/?_a=knowledgebase
+Knowledge Base: [http://www.respondus.com/esupport/?_a=knowledgebase](http://www.respondus.com/esupport/?_a=knowledgebase)
     
-Respondus eSupport: http://www.respondus.com/esupport/
+Respondus eSupport: [http://www.respondus.com/esupport/](http://www.respondus.com/esupport/)
 
 ### Lockdown Browser Common Error Messages
 
-Ox-AWS-xxx error message: https://support.respondus.com/support/index.php?/Knowledgebase/Article/View/557/25/aws-999-unable-to-connect-to-respondus-server-aws
+Ox-AWS-xxx error message: [https://support.respondus.com/support/index.php?/Knowledgebase/Article/View/557/25/aws-999-unable-to-connect-to-respondus-server-aws
+](https://support.respondus.com/support/index.php?/Knowledgebase/Article/View/557/25/aws-999-unable-to-connect-to-respondus-server-aws)
 
-Connecting to Media Server error: https://support.respondus.com/support/index.php?/Knowledgebase/Article/View/442/25/connecting-to-media-server-please-wait
+Connecting to Media Server error: [https://support.respondus.com/support/index.php?/Knowledgebase/Article/View/442/25/connecting-to-media-server-please-wait](https://support.respondus.com/support/index.php?/Knowledgebase/Article/View/442/25/connecting-to-media-server-please-wait)
 
-Spinning Webcam Check: https://support.respondus.com/support/index.php?/Knowledgebase/Article/View/570/25/spinning-wheel-during-webcam-check
+Spinning Webcam Check: [https://support.respondus.com/support/index.php?/Knowledgebase/Article/View/570/25/spinning-wheel-during-webcam-check](https://support.respondus.com/support/index.php?/Knowledgebase/Article/View/570/25/spinning-wheel-during-webcam-check)
 
-Mac privacy settings: https://support.respondus.com/support/index.php?/Knowledgebase/Article/View/536/25/macos-1014x-and-newer-camera-and-microphone-permissions
+Mac privacy settings: [https://support.respondus.com/support/index.php?/Knowledgebase/Article/View/536/25/macos-1014x-and-newer-camera-and-microphone-permissions](https://support.respondus.com/support/index.php?/Knowledgebase/Article/View/536/25/macos-1014x-and-newer-camera-and-microphone-permissions)
 
-Mac Webcam not detected: https://support.respondus.com/support/index.php?/Knowledgebase/Article/View/425/25/mac-webcam-not-detected
+Mac Webcam not detected: [https://support.respondus.com/support/index.php?/Knowledgebase/Article/View/425/25/mac-webcam-not-detected
+](https://support.respondus.com/support/index.php?/Knowledgebase/Article/View/425/25/mac-webcam-not-detected)
 
-IP Addresses: https://support.respondus.com/support/index.php?/Knowledgebase/Article/View/577/26/ip-addresses-and-ports-for-respondus-monitor
+IP Addresses: [https://support.respondus.com/support/index.php?/Knowledgebase/Article/View/577/26/ip-addresses-and-ports-for-respondus-monitor](https://support.respondus.com/support/index.php?/Knowledgebase/Article/View/577/26/ip-addresses-and-ports-for-respondus-monitor)

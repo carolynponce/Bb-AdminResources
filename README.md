@@ -21,11 +21,11 @@ The Respository is currently being built. Some of the links below may not work a
 
 ## Integrations
 
-[SIS Integration](developer/sis.md)
+[Integration Resources](developer/sis.md)
 
-[Snapshot Flat File Headers](developer/sis.md)
-
-[Grades Journey](developer/sis.md)
+    SIS Integrations
+    Snapshot Flat File Headers
+    Grades Journey
 
 ## Third Party Tools
 

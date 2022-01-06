@@ -1,8 +1,6 @@
 Github: https://github.com
 
-## User Created and Currated Github Sites
-
-LTI Icons Repository: [https://github.com/carolynponce/Bb-lti-icons](https://github.com/carolynponce/Bb-lti-icons)
+## User Created Tools
 
 All the Ducks: [https://github.com/AllTheDucks/](https://github.com/AllTheDucks/)
 
@@ -22,6 +20,4 @@ Tsugi Tools: [https://github.com/tsugitools](https://github.com/tsugitools)
 
 Bb Impersonate: [https://github.com/sdsu-its/book-bb-impersonate](https://github.com/sdsu-its/book-bb-impersonate)
 
-## Individual Developer Github Sites
-
-Heather Crites: [https://github.com/hcrites-cscc/blackboard](https://github.com/hcrites-cscc/blackboard)
+LTI Icons Repository: [https://github.com/carolynponce/Bb-lti-icons](https://github.com/carolynponce/Bb-lti-icons)

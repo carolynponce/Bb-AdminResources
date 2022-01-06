@@ -1,6 +1,6 @@
 Github: https://github.com
 
-## User Created and Currated Github Sites
+## User Created and Curated Github Sites
 
 All the Ducks: [https://github.com/AllTheDucks/](https://github.com/AllTheDucks/)
 
@@ -15,3 +15,6 @@ SDSU ITS: [https://github.com/sdsu-its](https://github.com/sdsu-its)
 Heather Crites: [https://github.com/hcrites-cscc/blackboard](https://github.com/hcrites-cscc/blackboard)
 
 Carolyn Ponce: [https://github.com/carolynponce](https://github.com/carolynponce)
+
+Scott Hurrey: [https://github.com/shurrey](https://github.com/shurrey)
+

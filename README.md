@@ -14,7 +14,7 @@ The Respository is currently being built. Some of the links below may not work a
 
 [Blackboard Community Site](https://community.blackboard.com/home)
 
-[User Ran Listservs](listservs.md)
+[User Managed Listservs](listservs.md)
 
 ## Developer Links
 

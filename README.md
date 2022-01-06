@@ -26,12 +26,15 @@ The Respository is currently being built. Some of the links below may not work a
 
 [Blackboard on Github](https://github.com/blackboard)
 
-[User Created and Currated Github Sites](integrations/toolweblinks.md)
+[User Created and Currated Github Sites](developer/githublinks.md)
 
     All the Ducks
     Oscelot
     Tsugi
-    sdsu-its
+    SDSU - ITS
+    Individual Admins/Developers
+    
+[Github-housed Tools](integrations/toolweblinks.md)
 
 ## Database
 

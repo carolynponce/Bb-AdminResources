@@ -42,7 +42,7 @@ The Respository is currently being built. Some of the links below may not work a
 
 [Blackboard Ally](integrations/BbAlly.md)
 
-[Blackboard Data](integration/BbData.md)
+[Blackboard Data](integrations/BbData.md)
 
 ## Third Party Tools
 

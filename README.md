@@ -38,6 +38,8 @@ The Respository is currently being built. Some of the links below may not work a
     Snapshot Flat File Headers
     Grades Journey
 
+[Blackboard Ally](integrations/BbAlly.md)
+
 ## Third Party Tools
 
 [LTI Icon Repository](https://github.com/carolynponce/Bb-lti-icons)

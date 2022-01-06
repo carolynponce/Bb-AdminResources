@@ -17,7 +17,7 @@ The Respository is currently being built. Some of the links below may not work a
 ## Database
 [Database Links](developer/databases.md)
 
-[Query Repository](/queries.md)
+[Query Repository](https://carolynponce.github.io/Bb-DBQueryRepository/)
 
 ## Integrations
 

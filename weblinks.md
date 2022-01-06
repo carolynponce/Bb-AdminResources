@@ -25,3 +25,5 @@ Password Generator: https://passwordsgenerator.net/
 Parce a User: https://developers.whatismybrowser.com/useragents/parse/#parse-useragent
 
 Heather Crite's GitHub: https://github.com/hcrites-cscc/blackboard
+
+This is a proposed change to this page.

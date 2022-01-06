@@ -23,6 +23,10 @@ The Respository is currently being built. Some of the links below may not work a
 
 [SIS Integration](developer/sis.md)
 
+[Snapshot Flat File Headers](developer/sis.md)
+
+[Grades Journey](developer/sis.md)
+
 ## Third Party Tools
 
 [LTI Icon Repository](https://github.com/carolynponce/Bb-lti-icons)

@@ -10,6 +10,7 @@ When an assessment is started, students are locked into the exam until they subm
     Mac: MacOS 10.12+
     iOS: 11.0+ (iPad only). Must have a compatible LMS integration.
     Chromebook: latest version
+
 Details: [https://support.respondus.com/hc/en-us/articles/4409607170459-What-are-the-computer-requirements-for-installations-of-Respondus-LockDown-Browser-](https://support.respondus.com/hc/en-us/articles/4409607170459-What-are-the-computer-requirements-for-installations-of-Respondus-LockDown-Browser-)
     
 

@@ -23,11 +23,7 @@ The Respository is currently being built. Some of the links below may not work a
 
 [SIS Integration](developer/sis.md)
 
-[Web Links](integrations/welinks.md)
-
 ## Third Party Tools
-
-[Respondus Information and Links](integrations/respondus.md)
 
 [LTI Icon Repository](https://github.com/carolynponce/Bb-lti-icons)
 

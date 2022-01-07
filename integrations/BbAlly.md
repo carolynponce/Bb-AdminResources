@@ -1,6 +1,6 @@
 # Blackboard Ally
 
-Abour Ally: [https://ally.ac](https://ally.ac)
+About Ally: [https://ally.ac](https://ally.ac)
 
 Ally File Transformer: [https://ally.ac/covid19](https://ally.ac/covid19)
 

@@ -6,4 +6,4 @@ B2 vs REST: [https://help.blackboard.com/Learn/Administrator/SaaS/Integrations/C
 
 LTI Icon Repository: [https://carolynponce.github.io/Bb-lti-icons/](https://carolynponce.github.io/Bb-lti-icons/)
 
-[Blackboard REST Examples by Matthew Deakyne](https://github.com/mdeakyne/BbRestExamples)
+Blackboard REST Examples by Matthew Deakyne: [https://github.com/mdeakyne/BbRestExamples](https://github.com/mdeakyne/BbRestExamples)

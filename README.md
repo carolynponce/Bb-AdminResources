@@ -9,6 +9,12 @@ The Respository is currently being built. Some of the links below may not work a
     Blackboard Academy
     SaaS and Ultra Planning Workshops
     Instructor Webinar Series
+    
+[Office Hours](/officehours.md)
+
+    Teaching & Learning Administrator Office Hour
+    Technical Office Hour
+    SaaS/Ultra - Europe, Middle East & Africa Office Hour
 
 ## Community Resources
 

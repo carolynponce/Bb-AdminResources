@@ -60,11 +60,15 @@ The Respository is currently being built. Some of the links below may not work a
     Snapshot Flat File Headers
     Grades Journey
 
-## Third Party Tools
+## Tools/Apps/Third Party Tools
 
 [Blackboard App Catalog](https://appcatalog.blackboard.com/)
 
+[Blackboard Collaborate](https://www.blackboard.com/teaching-learning/collaboration-web-conferencing/blackboard-collaborate)
+
 [Blackboard Ally](integrations/BbAlly.md)
+
+[SafeAssign](https://www.blackboard.com/teaching-learning/learning-management/safe-assign)
 
 [LTI Icon Repository](https://carolynponce.github.io/Bb-lti-icons/)
 

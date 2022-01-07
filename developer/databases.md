@@ -10,4 +10,4 @@ Open DB Schemas: [https://help.blackboard.com/Learn/Administrator/Hosting/Databa
 
 SaaS DDA: [https://help.blackboard.com/Learn/Administrator/SaaS/Integrations/Direct_Data_Access](https://help.blackboard.com/Learn/Administrator/SaaS/Integrations/Direct_Data_Access)
 
-Blackboard Data Dictionary: https://data.blackboard.com/dictionary/entries/submodel/all-submodels
+Blackboard Data Dictionary: [https://data.blackboard.com/dictionary/entries/submodel/all-submodels](https://data.blackboard.com/dictionary/entries/submodel/all-submodels)

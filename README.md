@@ -4,7 +4,7 @@ The Respository is currently being built. Some of the links below may not work a
 
 ## Professional Development
 
-[Opportunities From Blackboard](/training.md)
+[Training Opportunities From Blackboard](/training.md)
 
     Blackboard Academy
     SaaS and Ultra Planning Workshops

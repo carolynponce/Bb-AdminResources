@@ -74,6 +74,8 @@ The Respository is currently being built. Some of the links below may not work a
 
 [Respondus Lockdown Browser](integrations/Respondus.md)
 
+[Biometric Signature ID (BioSig-ID)](integrations/biosig.md)
+
 ## Notice
 
 The Blackboard Administrator Resources Repository is an organic project to help share resources among Blackboard Administrators. 

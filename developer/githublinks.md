@@ -20,3 +20,5 @@ Scott Hurrey: [https://github.com/shurrey](https://github.com/shurrey)
 
 Mark Kauffman: [https://github.com/mark-b-kauffman](https://github.com/mark-b-kauffman)
 
+Matthew Deeprose - Better Blackboard Help: [https://matthewdeeprose.github.io/bbh.html](https://matthewdeeprose.github.io/bbh.html)
+

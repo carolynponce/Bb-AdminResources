@@ -1,6 +1,8 @@
 # Welcome to the Blackboard Administrator Resources Repository
 
-The Respository is currently being built. Some of the links below may not work at this time. Thank you for your patience. 
+The Respository is intended to be a organically grown, community-developed, repository of helpful information, links, and queries for the Blackboard Administrator. 
+
+Please continue to check back as new resources are added. 
 
 ## Professional Development
 
@@ -79,6 +81,5 @@ The Respository is currently being built. Some of the links below may not work a
 ## Notice
 
 The Blackboard Administrator Resources Repository is an organic project to help share resources among Blackboard Administrators. 
-As resources are found, they will be listed here. 
 
 [Create a Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to contribute content to the Repository. 
